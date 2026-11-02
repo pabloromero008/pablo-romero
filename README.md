@@ -30,9 +30,9 @@ Actualmente lidero un equipo de cinco personas en el desarrollo de un **sistema 
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/PHP-3776AB?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/HTML-3776AB?style=for-the-badge&logo=html&logoColor=white" alt="HTML" />
-  <img src="https://img.shields.io/badge/CSS-3776AB?style=for-the-badge&logo=css&logoColor=white" alt="CSS" />
+  <img src="https://img.shields.io/badge/PHP-C8A2C8?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/HTML-FFA500?style=for-the-badge&logo=html&logoColor=white" alt="HTML" />
+  <img src="https://img.shields.io/badge/CSS-87CEEB?style=for-the-badge&logo=css&logoColor=white" alt="CSS" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
