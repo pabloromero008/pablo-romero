@@ -46,14 +46,6 @@ Actualmente lidero un equipo de cinco personas en el desarrollo de un **sistema 
 
 ---
 
-## 📊 Estadísticas de GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=default&hide_border=true" alt="Estadísticas de GitHub" />
-</p>
-
----
-
 ## 📫 Contacto
 
 <p>
